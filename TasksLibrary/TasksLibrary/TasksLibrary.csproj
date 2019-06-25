@@ -42,6 +42,9 @@
   <ItemGroup>
     <Compile Include="Customer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringWorker.cs" />
+    <Compile Include="UniqOrderer.cs" />
+    <Compile Include="URLManipulator.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
