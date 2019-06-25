@@ -1,8 +1,8 @@
-﻿using System;
-using System.Text;
-
-namespace TasksLibrary
+﻿namespace TasksLibrary
 {
+    using System;
+    using System.Text;
+
     public enum CustomerInfo
     {
         Name,
