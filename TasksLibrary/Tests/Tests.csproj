@@ -64,8 +64,10 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AddOrChangeUrlParameterTests.cs" />
+    <Compile Include="BigNumbersTests.cs" />
     <Compile Include="CustomerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReverseWordsTests.cs" />
     <Compile Include="StringToTitleCaseTests.cs" />
     <Compile Include="UniqOrdererTests.cs" />
   </ItemGroup>
